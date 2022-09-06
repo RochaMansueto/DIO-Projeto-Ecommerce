@@ -1,2 +1,2 @@
 # DIO-Projeto-Ecommerce
-Projeto Utilizando MySQL Workbench
+## Neste Projeto optei por fazer uma entidade própria para pagamentos em Credcar, Entrega, e Tipo de Cliente, desta forma os dados permaneceram mais limpos e de fácil compreensão, na entrega por exemplo, existe a possibilidade de entregar em um endereço diferente ao cadastrado pelo usuário, presumi também que para efetuar uma compra antes tornasse necessário o cadastramento como user. 
